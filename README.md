@@ -3,7 +3,7 @@ This Game Is Made Using Python 3.7 & Pygame Module.
 Hope You Will Like The Game.. and also u can use the code to make your own version of the game.
 
 ---
->#Installation
+>Installation(If You just want to play the game on Windows Skip This Step)!
 Installing The Pygame Module:
 * For Linux: Open Terminal then type ```pip3 install pygame```
 * For Windows: Open CMD, then type ```pip install pygame```
