@@ -1,4 +1,4 @@
-# Flappybird by Rohan
+# Flappybird by Rohan           [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 This Game Is Made Using Python 3.7 & Pygame Module.
 Hope You Will Like The Game.. and also u can use the code to make your own version of the game.
 
