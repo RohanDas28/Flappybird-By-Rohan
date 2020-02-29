@@ -20,6 +20,6 @@ Dont Delete Any Files.. IT MAY CRASH THE GAME!
 ---
 
 * Checkout my website [here](https://rohandas28.github.io/)
-* Follow Me On Instagram at [RohanDasYT](https://www.instagram.com/RohanDasYT)
+* Follow Me On Instagram at [RohanDasRD](https://www.instagram.com/RohanDasRD)
 
 
